@@ -1,3 +1,6 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+vg-team;Explore+the+world+of+code;We+share+existing+project+and+script+;Enjoy+your+stay" alt="Typing SVG" /></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">Hi 👋, I'm VIKAS GUPTA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
